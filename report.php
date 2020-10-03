@@ -121,33 +121,6 @@ $data_penjualan = [
           </tfoot>
           </tbody>
           <tfoot>
-              <br>
-              <table class="table">
-          <thead class="thead-light">
-            <tr>
-              <th scope="col">Makanan Ringan</th>
-              <th scope="col"></th>
-              <th scope="col"></th>
-              <th scope="col"></th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <th scope="row">Pilus</th>
-              <td>230</td>
-            </tr>
-            <tr>
-              <th scope="row">Oreo</th>
-              <td>12</td>
-            </tr>
-          </tbody>
-          <tfoot>
-              <tr>
-                  <td>Total</td>
-                  <td>242</td>
-              </tr>
-          </tfoot>
-        </table>
         <br>
         <!--  -->
         <table class="table">
@@ -193,7 +166,7 @@ $data_penjualan = [
         <table class="table">
           <thead class="thead-light">
             <tr>
-              <th scope="col">Grand Total 493 </th>
+              <th scope="col">Grand Total 439 </th>
             </tr>
         </table>
         <br>
