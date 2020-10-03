@@ -150,7 +150,7 @@ $data_penjualan = [
               <td>11</td>
             </tr>
             <tr>
-              <th scope="row">Fortune</th>
+              <th scope="row">Fortunee</th>
               <td>10</td>
             </tr>
           </tbody>
